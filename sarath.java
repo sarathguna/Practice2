@@ -2,7 +2,7 @@ public class sarath
 
 {
   public static void main(String[] args) {
-        int rows = 10;
+        int rows = 200;
 
         for(int i = 1; i <= rows; ++i) {
  
